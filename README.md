@@ -28,7 +28,7 @@ This analysis and the additional blog post was done as a project within the Udac
 I am a resident in Munich, Germany so I find that data particularly interesting.
 In order to get a better insight into Airbnb, especially in Munich, I am particularly interested in the answers to the following three questions:
 
-- When is the most expensive time of the year to visit Munich and how much do the price spike?
+- When is the most expensive time of the year to visit Munich and how much does the price spike?
 - What are the most expensive neighbourhoods in Munich? 
 - What factors influence the price most?
 
