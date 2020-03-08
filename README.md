@@ -1,13 +1,13 @@
 # Airbnb Analysis Munich, Germany
 
 This Repo includes an analysis of Airbnb data from Munich, Germany.
-
+See my Kernel on Kaggle with the complete description of this analysis [here](https://www.kaggle.com/chriskue/airbnb-analysis-munich). 
 
 ### Table of Contents
 
 - [Installation and Dependencies](#installation)
-- [Project motivation](#motivation)
-- [File descriptions](#description)
+- [Motivation](#motivation)
+- [File Descriptions](#description)
 - [Results](#results)
 - [Thanks](#thanks)
 
@@ -65,16 +65,13 @@ The TOP 3 expensive neighbourhoods in Munich (in average) are:
 
 **What factors influence the price most?**  
 The TOP 5 factors of an apartment that have the greatest influence on the price are:
-*Accommodates
-*Entire home/ Apartment
-*Extra people
-*Number of reviews
-*Guest included
+- Accommodates
+- Entire home/ Apartment
+- Extra people
+- Number of reviews
+- Guest included
 
 
 ## Thanks, Authors, Acknowledgements <a name="thanks"></a>
 
-The source for the data is Inside Airbnb which was imported to Kaggle [here](https://www.kaggle.com/chriskue/munich-airbnb-data). 
-And there is also a Kernel on Kaggle with this analysis [here](https://www.kaggle.com/chriskue/airbnb-analysis-munich). 
-
-The content is available under the GNU General Public License v3.0. 
+The source for the data is Inside Airbnb which was imported to Kaggle [here](https://www.kaggle.com/chriskue/munich-airbnb-data) and is available under Creative Commons CC0 1.0 Universal (CC0 1.0) "Public Domain Dedication" license. 
